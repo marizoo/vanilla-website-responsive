@@ -1,7 +1,7 @@
 
 
 ## DESCRIPTION:
-- Vanilla flavored responsive website
+- Vanilla flavored responsive website.
 - [Youtube Video of the App](https://youUUUUUUUUUUUUUUU)
 
 ## OUTCOME:
@@ -11,12 +11,14 @@
 
 
 ## TECH STACKS:
-- HTML + CSS
-- JS:
-    - 
+- HTML + CSS + JS
+- Libraries:
+    - swiperjs
+    - scrollreveal
+    - mixitupjs
 
 ## PROGRESS:
-- Done: 
+- Done: 20%.
 
 ## How to run
 `yarn install`
